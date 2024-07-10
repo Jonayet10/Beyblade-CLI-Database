@@ -12,6 +12,8 @@ In your computer's command line, do the following:
 
 and enter your password accordingly, assuming root is the username being used to log into the MySQL database server and 'mysql' is the command-line client.
 
+(Note: Deleting a databse with DROP DATABASE beybladedb also deletes all routinres, procedures, etc. associated with it)
+
 Create and use database in the MySQL command-line interface:
 
     mysql> SET GLOBAL local_infile = TRUE;
