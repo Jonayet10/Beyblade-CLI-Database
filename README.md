@@ -6,9 +6,9 @@ Before running this program, make sure to install Python MySQL Connector and tab
 It is advised to create a virtual environment and do the following:
 
 ```bash
- python -m venv myenv
-source myenv/bin/activate
-pip install mysql-connector-python tabulate
+$ python -m venv myenv
+$ source myenv/bin/activate
+$ pip install mysql-connector-python tabulate
 ```
 
 # Setup Instructions
