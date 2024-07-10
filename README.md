@@ -3,6 +3,13 @@
 The GitHub repository establishes a Beyblade database project, cataloging Beybalde parts, configurations, and battle outcomes. It features a dual command-line interface, one tailored for a Blader (client) and another for a BeyAdmin (administrator), enabling users to execute a wide variety of functions. These include account creation, strategic Beyblade assembly based on accessible data, management of their personal Beyblade collection, as well as the analysis of battle statistics for various Beyblades and tournaments.
 
 Before running this program, make sure to install Python MySQL Connector and tabulate with pip. Also, note that this program was tested on MySQL Version 8.2.0.
+It is advised to create a virtual environment and do the following:
+
+```bash
+ python -m venv myenv
+source myenv/bin/activate
+pip install mysql-connector-python tabulate
+```
 
 # Setup Instructions
 
