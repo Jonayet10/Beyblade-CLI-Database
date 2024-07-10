@@ -64,8 +64,6 @@ The registered BeyAdmins (admins) are:
 | USER       | PASSWORD      |
 |------------|---------------|
 | jlavin     | jlavinpw      |
-| alinazhang | alinazhangpw  |
-| dpasha     | dpashapw      |
 
 The registered Bladers (clients) are:
 
